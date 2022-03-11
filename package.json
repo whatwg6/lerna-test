@@ -8,7 +8,7 @@
     "lerna": "^4.0.0"
   },
   "scripts": {
-    "prepublishOnly": "echo 1"
+    "prepublishOnly": "yarn add react"
   },
   "workspaces": [
     "packages/AAA",
