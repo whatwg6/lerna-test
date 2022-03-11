@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.2](https://github.com/whatwg6/lerna-test/compare/@0x000fe/bbb@1.1.1...@0x000fe/bbb@1.1.2) (2022-03-11)
+
+
+### Bug Fixes
+
+* 🐛 publish ([0baba15](https://github.com/whatwg6/lerna-test/commit/0baba15b37da2d22e074d87fb0556bf4bbee2906))
+
+
+
+
+
 ## [1.1.1](https://github.com/whatwg6/lerna-test/compare/@0x000fe/bbb@1.1.0...@0x000fe/bbb@1.1.1) (2022-03-11)
 
 **Note:** Version bump only for package @0x000fe/bbb
