@@ -3,7 +3,10 @@
   "npmClient": "yarn",
   "command": {
     "version": {
-      "message": "chore(release): publish %s"
+      "conventionalCommits": true,
+      "createRelease": "github",
+      "exact": true,
+      "message": "chore(release): %s"
     },
     "publish": {
       "verifyAccess": "false"
