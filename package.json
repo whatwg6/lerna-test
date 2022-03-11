@@ -15,6 +15,7 @@
     "packages/BBB"
   ],
   "dependencies": {
-    "@fe/checkout-web": "^0.2.0-beta.0"
+    "@fe/checkout-web": "^0.2.0-beta.0",
+    "react": "^17.0.2"
   }
 }
