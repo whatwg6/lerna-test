@@ -8,7 +8,7 @@
     "lerna": "^4.0.0"
   },
   "scripts": {
-    "prepack": "console.log"
+    "prepack": "echo \"Error: no test specified\" && exit 1"
   },
   "workspaces": [
     "packages/AAA",
