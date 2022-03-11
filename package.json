@@ -12,7 +12,8 @@
   },
   "workspaces": [
     "packages/AAA",
-    "packages/BBB"
+    "packages/BBB",
+    "packages/CCC"
   ],
   "dependencies": {
     "@fe/checkout-web": "^0.2.0-beta.0",
