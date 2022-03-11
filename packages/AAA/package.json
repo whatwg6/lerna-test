@@ -7,9 +7,10 @@
     "access": "public"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepack": "echo 2"
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "86ef5909218814d589b5d8d12424eecf6f7134da"
+  "gitHead": "b56fc457331b0bb05fd70f486e56a14c0e32df94"
 }
