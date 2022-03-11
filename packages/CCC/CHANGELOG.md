@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/whatwg6/lerna-test/compare/@0x000fe/ccc@1.4.1...@0x000fe/ccc@1.5.0) (2022-03-11)
+
+
+### Features
+
+* 🎸 CCCC ([e3a784e](https://github.com/whatwg6/lerna-test/commit/e3a784e3e98f69d76be1435f5c397f071b948d98))
+
+
+
+
+
 ## [1.4.1](https://github.com/whatwg6/lerna-test/compare/@0x000fe/ccc@1.0.2...@0x000fe/ccc@1.4.1) (2022-03-11)
 
 
