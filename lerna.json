@@ -11,6 +11,6 @@
       "message": "chore(release): %s"
     }
   },
-  "useWorkspaces": true,
+  "useWorkspaces": false,
   "version": "1.10.1"
 }
