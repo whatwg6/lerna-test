@@ -1,6 +1,6 @@
 {
   "name": "@0x000fe/aaa",
-  "version": "1.0.34",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
@@ -14,7 +14,7 @@
   "license": "ISC",
   "gitHead": "c2a8906dae828b6c8900150f61679625925a3d21",
   "dependencies": {
-    "@0x000fe/bbb": "^1.0.10",
+    "@0x000fe/bbb": "^1.1.0",
     "A": "^0.0.1"
   }
 }
