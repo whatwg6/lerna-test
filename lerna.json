@@ -7,7 +7,6 @@
   "npmClient": "yarn",
   "command": {
     "version": {
-      "forcePublish": true,
       "conventionalCommits": true,
       "message": "chore(release): %s"
     }
