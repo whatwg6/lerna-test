@@ -11,5 +11,8 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "41ced062e5089334dfdd64719e27f00c6c83a80f"
+  "gitHead": "41ced062e5089334dfdd64719e27f00c6c83a80f",
+  "dependencies": {
+    "A": "^0.0.1"
+  }
 }

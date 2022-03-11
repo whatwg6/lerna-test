@@ -1,16 +1,13 @@
 {
-  "packages": ["packages/AAA"],
+  "packages": ["packages/*"],
   "npmClient": "yarn",
   "command": {
     "version": {
+      "forcePublish": true,
       "conventionalCommits": true,
-      "createRelease": "github",
-      "exact": true,
       "message": "chore(release): %s"
-    },
-    "publish": {
-      "verifyAccess": "false"
     }
   },
+  "useWorkspaces": true,
   "version": "independent"
 }
