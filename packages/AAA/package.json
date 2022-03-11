@@ -1,6 +1,6 @@
 {
   "name": "@0x000fe/aaa",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "",
   "main": "index.js",
   "publishConfig": {
@@ -15,7 +15,7 @@
   "gitHead": "fc16d4feeeb42d0984c22912f2dbaff1583801a5",
   "dependencies": {
     "@0x000fe/bbb": "^1.4.2",
-    "@0x000fe/ccc": "^1.5.0",
+    "@0x000fe/ccc": "^1.6.0",
     "A": "^0.0.1",
     "ccc": "^0.5.1"
   }
