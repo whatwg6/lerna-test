@@ -8,6 +8,7 @@
     "lerna": "^4.0.0"
   },
   "workspaces": [
-    "packages/AAA"
+    "packages/AAA",
+    "packages/BBB"
   ]
 }
