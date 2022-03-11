@@ -8,9 +8,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepack": "echo 2"
+    "prepublishOnly": "echo 2"
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "b56fc457331b0bb05fd70f486e56a14c0e32df94"
+  "gitHead": "0a37a5d38a3429a29174823cfdb68b1d1569e83a"
 }
