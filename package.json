@@ -1,5 +1,5 @@
 {
-  "name": "@0x000fe/aaa",
+  "name": "root",
   "private": true,
   "publishConfig": {
     "access": "public"
@@ -8,7 +8,7 @@
     "lerna": "^4.0.0"
   },
   "scripts": {
-    "prepublishOnly": "yarn add react -W"
+    "prepublishOnly": "yarn add vue -W"
   },
   "workspaces": [
     "packages/AAA",
