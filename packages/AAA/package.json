@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "directory": "dist"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
