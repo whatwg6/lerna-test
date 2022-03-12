@@ -23,17 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@fe/checkout-web@^0.2.0-beta.0":
-  version "0.2.0-beta.0"
-  resolved "https://npm_registry.planetmeican.com/@fe/checkout-web/download/@fe/checkout-web-0.2.0-beta.0.tgz#e6a87998cdb7fefefe50b07321632c1a8e1fa079"
-  integrity sha1-5qh5mM23/v7+ULBzIWMsGo4foHk=
-  dependencies:
-    "@fe/checkout" "^0.2.0-beta.27"
-
-"@fe/checkout@^0.2.0-beta.27":
-  version "0.2.0-beta.27"
-  resolved "https://npm_registry.planetmeican.com/@fe/checkout/download/@fe/checkout-0.2.0-beta.27.tgz#88c2b719c4bb7c9c327d6bb2156420ce8d137a70"
-  integrity sha1-iMK3GcS7fJwyfWuyFWQgzo0TenA=
+"@fe/checkout-web@^0.2.0-beta.4":
+  version "0.2.0-beta.4"
+  resolved "https://npm_registry.planetmeican.com/@fe/checkout-web/download/@fe/checkout-web-0.2.0-beta.4.tgz#82e548b03db401022ba9c08410deb0c061650558"
+  integrity sha1-guVIsD20AQIrqcCEEN6wwGFlBVg=
 
 "@gar/promisify@^1.0.1":
   version "1.1.3"
