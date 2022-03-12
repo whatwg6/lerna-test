@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepublishOnly": "echo 2"
+    "prepublishOnly": "mkdir build && echo 2"
   },
   "author": "",
   "license": "ISC",
