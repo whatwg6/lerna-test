@@ -1,7 +1,7 @@
 {
   "name": "@0x000fe/bbb",
   "private": true,
-  "version": "1.10.2",
+  "version": "1.11.0-alpha.5",
   "description": "",
   "main": "index.js",
   "publishConfig": {
