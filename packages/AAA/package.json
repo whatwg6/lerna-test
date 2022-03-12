@@ -12,11 +12,11 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "mkdir build && echo 2"
+    "prepublishOnly": "mkdir build && echo 2"
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "1c9c770e50eb609863065a3921962f76767ca34c",
+  "gitHead": "b2593c023ba8bf2fcd7f78a24f362cf59c1a82c4",
   "dependencies": {
     "@0x000fe/bbb": "^1.11.0-alpha.6",
     "@0x000fe/ccc": "^1.11.0-alpha.6",
