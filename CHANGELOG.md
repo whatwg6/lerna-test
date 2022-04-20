@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.11.0-alpha.8](https://github.com/whatwg6/lerna-test/compare/v1.11.0-alpha.7...v1.11.0-alpha.8) (2022-04-20)
+
+
+### Bug Fixes
+
+* 🐛 aaa ([4f00500](https://github.com/whatwg6/lerna-test/commit/4f00500ed288c24d22e5bd1fc3355a3a4291d49c))
+
+
+
+
+
 # [1.11.0-alpha.7](https://github.com/whatwg6/lerna-test/compare/v1.11.0-alpha.6...v1.11.0-alpha.7) (2022-03-12)(Manual Squash)
 
 **Note:** Version bump only for package root
