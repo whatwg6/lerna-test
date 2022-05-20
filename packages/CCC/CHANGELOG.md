@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.11.0-alpha.9](https://github.com/whatwg6/lerna-test/compare/v1.11.0-alpha.8...v1.11.0-alpha.9) (2022-05-20)
+
+
+### Features
+
+* 🎸 test dist-tag ([f2622bb](https://github.com/whatwg6/lerna-test/commit/f2622bb987201e9d312a08b55114a390d57a8bf0))
+
+
+
+
+
 # [1.11.0-alpha.6](https://github.com/whatwg6/lerna-test/compare/v1.11.0-alpha.5...v1.11.0-alpha.6) (2022-03-12)
 
 **Note:** Version bump only for package @0x000fe/ccc
