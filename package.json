@@ -7,9 +7,6 @@
   "devDependencies": {
     "lerna": "^4.0.0"
   },
-  "scripts": {
-    "prepublishOnly": "yarn add vue -W"
-  },
   "workspaces": [
     "packages/AAA",
     "packages/BBB",
