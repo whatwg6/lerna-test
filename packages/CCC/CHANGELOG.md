@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.11.0-alpha.18](https://github.com/whatwg6/lerna-test/compare/v1.11.0-alpha.17...v1.11.0-alpha.18) (2022-05-25)
+
+
+### Bug Fixes
+
+* 🐛 1212 ([97a2e14](https://github.com/whatwg6/lerna-test/commit/97a2e1413a2f07f05a64a2c3ecaf8f9a6e823777))
+
+
+
+
+
 # [1.11.0-alpha.17](https://github.com/whatwg6/lerna-test/compare/v1.11.0-alpha.16...v1.11.0-alpha.17) (2022-05-25)
 
 
