@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.11.0-alpha.33](https://github.com/whatwg6/lerna-test/compare/v1.11.0-alpha.32...v1.11.0-alpha.33) (2022-05-30)
+
+
+### Bug Fixes
+
+* 🐛 ghjkl ([a2106f3](https://github.com/whatwg6/lerna-test/commit/a2106f3046198722f7ef96feb558c8ae30fe62df))
+
+
+
+
+
 # [1.11.0-alpha.32](https://github.com/whatwg6/lerna-test/compare/v1.11.0-alpha.30...v1.11.0-alpha.32) (2022-05-30)
 
 
