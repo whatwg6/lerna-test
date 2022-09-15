@@ -1,6 +1,6 @@
 {
   "name": "@0x000fe/aaa",
-  "version": "1.2.6-beta.4",
+  "version": "1.2.6-beta.5",
   "description": "",
   "main": "index.js",
   "files": [
@@ -14,7 +14,7 @@
   "gitHead": "200daf939c3151fdb713f482b14143e1961789d9",
   "dependencies": {
     "@0x000fe/bbb": "^1.2.6-beta.4",
-    "@0x000fe/ccc": "^1.2.6-beta.4",
+    "@0x000fe/ccc": "^1.2.6-beta.5",
     "A": "^0.0.1",
     "ccc": "^0.5.1"
   }
