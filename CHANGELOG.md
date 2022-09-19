@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0-alpha.3](https://github.com/whatwg6/lerna-test/compare/v1.3.0-alpha.2...v1.3.0-alpha.3) (2022-09-19)
+
+
+### Bug Fixes
+
+* 🐛 121212 ([4a7d45d](https://github.com/whatwg6/lerna-test/commit/4a7d45d57527f0cf924bf30e8e6f9ee09d840e46))
+
+
+
+
+
 # [1.3.0-alpha.2](https://github.com/whatwg6/lerna-test/compare/v1.3.0-alpha.0...v1.3.0-alpha.2) (2022-09-19)
 
 
