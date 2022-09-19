@@ -1,15 +1,14 @@
 {
-  "packages": [
-    "packages/AAA",
-    "packages/BBB",
-    "packages/CCC"
-  ],
+  "packages": ["packages/AAA", "packages/BBB", "packages/CCC"],
   "npmClient": "yarn",
   "command": {
     "version": {
       "conventionalCommits": true,
       "message": "chore(release): %s"
     }
+  },
+  "publish": {
+    "tempTag": true
   },
   "useWorkspaces": false,
   "version": "1.3.0-alpha.2"
