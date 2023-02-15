@@ -1,5 +1,5 @@
 {
-  "name": "@0x000fe/aaa",
+  "name": "@0x000fe/test",
   "version": "2.0.0-beta.0+e87e853",
   "description": "",
   "main": "index.js",
@@ -13,9 +13,6 @@
   "license": "ISC",
   "gitHead": "e87e85320f16b7d4d1afe0c661fec940892528d4",
   "dependencies": {
-    "@0x000fe/bbb": "1.3.3",
-    "@0x000fe/ccc": "1.3.3",
-    "A": "^0.0.1",
-    "ccc": "^0.5.1"
+    "style-inject": "^0.3.0"
   }
 }
